@@ -2,7 +2,7 @@
 let shop = [
 
     // Array
-    products = [
+    [
 
         // Arrays
         laptop = [
